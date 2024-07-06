@@ -1,0 +1,197 @@
+* {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    color: rgb(28, 30, 33);
+    background-color: rgb(240, 242, 245);
+
+
+}
+
+.login {
+    display: flex;
+    
+    height: 800px;
+    
+}
+
+.login-p {
+    
+    height: 1000px;
+    width: 49%;
+    justify-content: center;
+    display: inline-flexbox;
+
+
+
+
+
+}
+
+.login-p1 {
+   
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 300px;
+    line-height: 28px;
+    margin-left: 180px;
+    margin-top: 180px;
+
+
+}
+
+.login-p2 {
+    
+    text-align: start;
+    margin-left: 205px;
+    letter-spacing: 0.5px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+
+.login-input-1 {
+    border: none;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(0, 0, 0, 0.1) 0px 8px 16px 0px;
+    border-radius: 0.5em;
+    height: 330px;
+    width: 380px;
+
+
+    margin-left: 140px;
+    margin-top: 130px;
+    padding: 20px 10px 20px 10px;
+    font-size: 17px;
+
+
+
+}
+
+.Email {
+
+    border: 1px solid rgb(223, 218, 218);
+    height: 50px;
+    width: 360px;
+    font-size: 17px;
+    padding-left: 20px;
+    border-radius: 6px;
+    font-weight: 400px;
+    background-color: white;
+
+
+}
+
+.password {
+    background-color: white;
+    border: 1px solid rgb(223, 218, 218);
+    margin-top: 20px;
+    height: 50px;
+    width: 360px;
+    font-size: 17px;
+    padding-left: 20px;
+    border-radius: 6px;
+    font-weight: 400px;
+}
+
+.login-button-a {
+    background-color: white;
+}
+
+.login-button {
+    border: none;
+    margin-top: 20px;
+    height: 50px;
+    width: 360px;
+    font-size: 25px;
+    padding-left: 20px;
+    margin-left: 15px;
+    border-radius: 6px;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(8, 102, 255);
+    margin-bottom: 20px;
+
+}
+
+.Forgotten-ps {
+    color: rgb(8, 102, 255);
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 120px;
+    background-color: white;
+
+
+
+
+}
+
+.hr1 {
+    margin-top: 20px;
+    background-color: rgb(226, 214, 214);
+
+}
+
+.Create-new-account-a {
+    background-color: white;
+}
+
+.Create-new-account {
+    margin-top: 10px;
+    background-color: rgb(66, 183, 42);
+
+    margin-left: 100px;
+    height: 50px;
+    width: 200px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.login-para {
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 170px;
+}
+
+.login-para-a {
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.footer-div {
+
+    height: 200px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+
+}
+
+.footer-p1 {
+    color: rgb(115, 115, 115);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    word-spacing: 2px;
+}
+
+.footer-hr {
+    border: 0.0.0.1px solid rgb(115, 115, 115);
+}
+
+.footer-p2 {
+    color: rgb(115, 115, 115);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    word-spacing: 2px;
+}
